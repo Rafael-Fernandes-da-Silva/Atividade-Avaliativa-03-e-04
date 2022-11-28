@@ -1,0 +1,3 @@
+C:/Users/Rafael/CLionProjects/Atividade Avaliativa 03 e 04/cmake-build-debug/CMakeFiles/Atividade_Avaliativa_03_e_04.dir
+C:/Users/Rafael/CLionProjects/Atividade Avaliativa 03 e 04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rafael/CLionProjects/Atividade Avaliativa 03 e 04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
